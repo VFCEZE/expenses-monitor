@@ -1,0 +1,19 @@
+* {
+    
+    border: 3px solid black;
+}
+
+body {
+    background-color: orange;
+}
+
+header {
+    height: 5rem;
+    width: 90%;
+    margin: auto auto;
+    padding: auto auto;
+}
+
+h1 {
+    text-align: center;
+}
